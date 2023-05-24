@@ -22,5 +22,6 @@ export function Hero() {
         CADASTRAR LEMBRANÇA
       </a>
     </div>
+    </div>
   )
 }
